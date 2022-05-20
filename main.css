@@ -1,0 +1,110 @@
+.background {
+  width: 200px;
+  height: 300px;
+  position: relative;
+  display: flex;
+  outline: 2px solid black;
+}
+.yellowblock {
+  width: 70px;
+  height: 20px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: yellow;
+  outline: 2px solid black;
+}
+.redblock {
+  width: 70px;
+  height: 20px;
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  background-color: red;
+  outline: 2px solid black;
+}
+.greyblock {
+  width: 40px;
+  height: 10px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: grey;
+  outline: 2px solid black;
+}
+
+
+.background1 {
+  width: 170px;
+  height: 300px;
+  position: relative;
+  display: flex;
+  outline: 2px solid black;
+}
+.yellowblock1 {
+  width: 120px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 23px;
+  background-color: yellow;
+  outline: 2px solid black;
+}
+.redblock1 {
+  width: 120px;
+  height: 20px;
+  position: absolute;
+  top: 55px;
+  left: 23px;
+  background-color: red;
+  outline: 2px solid black;
+}
+.greyblock1 {
+  width: 30px;
+  height: 10px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: grey;
+  outline: 2px solid black;
+}
+
+
+.background2 {
+  width: 150px;
+  height: 300px;
+  position: relative;
+  display: flex;
+  outline: 2px solid black;
+}
+.yellowblock2 {
+  width: 150px;
+  height: 30px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: yellow;
+  outline: 2px solid black;
+}
+.redblock2 {
+  width: 150px;
+  height: 30px;
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  background-color: red;
+  outline: 2px solid black;
+}
+.greyblock2 {
+  width: 150px;
+  height: 18px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: grey;
+  outline: 2px solid black;
+}
+.glass {
+  width: 10px;
+  height: 10px;
+}
