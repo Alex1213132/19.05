@@ -1,10 +1,11 @@
-.background {
+..background {
   width: 200px;
   height: 300px;
   position: relative;
   display: flex;
   outline: 2px solid black;
 }
+
 .yellowblock {
   width: 70px;
   height: 20px;
@@ -14,6 +15,7 @@
   background-color: yellow;
   outline: 2px solid black;
 }
+
 .redblock {
   width: 70px;
   height: 20px;
@@ -23,6 +25,7 @@
   background-color: red;
   outline: 2px solid black;
 }
+
 .greyblock {
   width: 40px;
   height: 10px;
@@ -41,6 +44,7 @@
   display: flex;
   outline: 2px solid black;
 }
+
 .yellowblock1 {
   width: 120px;
   height: 20px;
@@ -50,6 +54,7 @@
   background-color: yellow;
   outline: 2px solid black;
 }
+
 .redblock1 {
   width: 120px;
   height: 20px;
@@ -59,6 +64,7 @@
   background-color: red;
   outline: 2px solid black;
 }
+
 .greyblock1 {
   width: 30px;
   height: 10px;
@@ -77,6 +83,7 @@
   display: flex;
   outline: 2px solid black;
 }
+
 .yellowblock2 {
   width: 150px;
   height: 30px;
@@ -86,6 +93,7 @@
   background-color: yellow;
   outline: 2px solid black;
 }
+
 .redblock2 {
   width: 150px;
   height: 30px;
@@ -95,6 +103,7 @@
   background-color: red;
   outline: 2px solid black;
 }
+
 .greyblock2 {
   width: 150px;
   height: 18px;
@@ -104,6 +113,7 @@
   background-color: grey;
   outline: 2px solid black;
 }
+
 .glass {
   width: 10px;
   height: 10px;
